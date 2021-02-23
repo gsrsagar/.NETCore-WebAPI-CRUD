@@ -1,0 +1,25 @@
+1. MemberShip POST Method  {
+        "SponserId": "RSMADMIN000001", //string max 14
+        "MemberUniqueId": "RSM78202038290", //string max 14
+        "MemberFirstName": "Chandana", 
+        "MemberLastName": "Raja",
+        "MemberEmailId": "sagar@gmail.com", 
+        "MemberCountry": "India",
+        "MemberMobileNumber": "+919494744223",  // max 15
+        "MemberAadharCardNumber": "432581242950",
+        "MemberPanCardNumber": "BM03EDGH01", // max 10
+        "MemberBankName": "Indian Bank",
+        "MemberAccountHolderName": "Chandana Raja",
+        "MemberAccountNumber": "346466325623",
+        "MemberBankBranchName": "Stone house , Nellore ",
+        "MemberBankIfscCode": "IDIB000N082",
+        "MemberNomineeName": "Sampoorna",
+        "MemberNomineeRelation": "Wife",
+        "MemberPassword": "1aa3fc1bb5e5139b3ebcdbed6accc8673c6cbbe6ffde2394277519c7eea88a45836d1b00fc0e47642b14b8ee2a1997155dafe18f153b6bfeecc768c41ef4ff48",
+        "MemberJoinedDate": "2020-08-07T02:56:15.4831196+05:30"
+    }
+
+2. Member Get Method 
+  "MemberUniqueId": "RSM78202038290"
+
+Get =api/RSM78202038290 
